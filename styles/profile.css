@@ -293,8 +293,13 @@ li{
 	.team-img {
         margin-bottom: 15px; 
     }
-	
-	.single-footer{
-		margin-right: 270px;
+	.footer-wrapper{
+		margin: auto 30px;
+		width: 100%;
+	}
+	.footer{
+		margin:  auto 30px;
+		/* width: 100%; */
+		width: 89%;
 	}
 }
